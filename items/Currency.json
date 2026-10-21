@@ -1,1 +1,15 @@
-
+{
+  "Currencies":[
+    {
+      "Name": "TestOrb",
+      "Item": ["ANY"],
+      "Effect": {
+        "Type": "Add",
+        "Pool": ["prefix"]
+      }
+      "Restriction": {
+        "ItemPrefix": "<= 3"
+      }
+    }
+  ]
+}
