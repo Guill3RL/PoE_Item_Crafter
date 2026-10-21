@@ -1,6 +1,6 @@
 {
   "prefix":[{
-    "Name":"afix1",
+    "Name":"prefix1",
     "Tags":["tag1"],
     "ItemType":["Sword"],
     "effect": {
