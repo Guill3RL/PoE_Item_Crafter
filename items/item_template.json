@@ -1,8 +1,13 @@
 {
     "id": "",
-    "name": "",
-    "type": "",
-    "required level": "",
+    "name": "Basic Sword",
+    "type": "Sword",
+    "required level": "1",
+    "BaseStats": [{
+        "StatId": "LocalDamage",
+        "MinValue": 20,
+        "Range": 3
+    }]
     "prefixes": [],
     "sufixes": []
 }
